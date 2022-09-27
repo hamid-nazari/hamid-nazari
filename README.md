@@ -14,7 +14,9 @@
   - Anything related to network management
   - IoT
   - Analysis of software architecture
-- 📫 Reach me at hamid.nazari.hashemi@gmail.com
+- 📫 Reach me:
+  - hamid.nazari.hashemi@gmail.com
+  - https://www.linkedin.com/in/hamid-nazari/
 
 <!---
 hamid-nazari/hamid-nazari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
